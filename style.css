@@ -1,5 +1,5 @@
 h1 {
-    color: magenta;
+    color: rgba(221, 111, 8, 0.945);
 }
 
 body {
@@ -8,9 +8,33 @@ body {
 
 #nav{
     min-width: 200px;
-    background-color: bisque;
+    background-color: rgb(223, 219, 29);
 }
 
 #WF{
     background-color: aquamarine;
+}
+
+#GREEN {
+    background-color: green;
+}
+
+#YELLOW {
+    background-color:  yellow;
+}
+
+#userQ {
+    background-color: rgb(235, 124, 198);
+}
+#TS{
+    background-color: aqua;
+}
+#result1 {
+    background-color: gold;
+}
+#result2 {
+    background-color: rgb(122, 89, 16)
+}
+#result3 {
+    background-color: silver;
 }
